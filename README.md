@@ -4,7 +4,6 @@ A simple and lightweight Python application that displays the **current Persian 
 
 Perfect for adding a touch of Persian culture to your desktop or integrating into larger Persian-language projects.
 
-![Screenshot](screenshot.png)
 
 ## Features
 - Shows today's date in Jalali (Persian) calendar
